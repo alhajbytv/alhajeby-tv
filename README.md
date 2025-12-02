@@ -2,6 +2,7 @@
 <!DOCTYPE html>
 <html lang="ar" dir="rtl">
 <head>
+    <meta name="google-site-verification" content="wYh4YYkcKSYVS8UOa2cJ2LoiFKBQwlRPLj1sWoRuxCk" />
 <meta charset="utf-8"/>
 <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no"/>
 <title>alhajiby tv - البث المباشر للقنوات العربية والرياضية | مباريات حية</title>
